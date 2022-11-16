@@ -91,6 +91,7 @@ GitHub is a code hosting platform for version control and collaboration. It lets
   4. [W3](https://www.w3schools.com/)
   5. [Exercism](https://exercism.org/)
   6. [codecademy](https://www.codecademy.com/)
+  7. [CS50x - Harvard University] (https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
 ---
 
 
