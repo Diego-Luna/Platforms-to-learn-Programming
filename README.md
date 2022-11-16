@@ -3,15 +3,14 @@ Platforms to learn about web development, machine learning, security and much mo
 
 # List
 * [Web development](#WebDevelopment)
-* [Machine learning and Data analysis](#Machine learning and Data analysis)
+* [Machine learning and Data analysis](#Machine_learning_and_Data_analysis)
 * [Cloud infrastructure](#CloudInfrastructure)
 
 ## WebDevelopment
 
 What is?
-***
+
 Web development, also known as website development, refers to the tasks associated with creating, building, and maintaining websites and web applications that run online on a browser. It may, however, also include web design, web programming, and database management.
-***
 
 ### Free
   1. [freecodecamp](https://www.freecodecamp.org/)
@@ -25,17 +24,16 @@ Web development, also known as website development, refers to the tasks associat
 -----
 
 
-## Machine learning and Data analysis
+## Machine_learning_and_Data_analysis
 
-what is machine learning?
-***
+What is machine learning?
+
 Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy. IBM has a rich history with machine learning
-***
+
 
 what is Data analysis?
-***
+
 Data Analysis. Data Analysis is the process of systematically applying statistical and/or logical techniques to describe and illustrate, condense and recap, and evaluate data.
-***
 
 
 ### Free
@@ -52,9 +50,9 @@ Data Analysis. Data Analysis is the process of systematically applying statistic
 ## CloudInfrastructure
 
 what is Cloud Infrastructure?
-***
+
 Examples include container infrastructure, service fabrics, serverless functions and managed network services -- virtual private clouds, load balancers, domain name services, application delivery controllers, firewalls, etc.
-***
+
 
 
 ### Free
