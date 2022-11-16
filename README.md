@@ -18,12 +18,13 @@ Web development, also known as website development, refers to the tasks associat
   2. [frontendmentor](https://www.frontendmentor.io/)
   3. [Youtbe Freecodecamp](https://www.youtube.com/c/Freecodecamp)
   4. [Google Dev](https://web.dev/)
+  5. [codecademy](https://www.codecademy.com/learn/paths/front-end-engineer-career-path)
 
 ### Pay
   1. [udacity](https://www.udacity.com/)
+  2. [codecademy](https://www.codecademy.com/)
   
 -----
-
 
 ## Machine_learning_and_Data_analysis
 
@@ -41,12 +42,13 @@ Data Analysis. Data Analysis is the process of systematically applying statistic
   1. [freecodecamp](https://www.freecodecamp.org/)
   2. [kaggle](https://www.kaggle.com/)
   3. [tensorflow](https://www.tensorflow.org/)
+  4. [codecademy](https://www.codecademy.com/)
 
 ### Pay
   1. [udacity](https://www.udacity.com/)
+  2. [codecademy](https://www.codecademy.com/)
   
 ----
-  
 
 ## CloudInfrastructure
 
@@ -75,6 +77,7 @@ Examples include container infrastructure, service fabrics, serverless functions
   3. [codingame](https://www.codingame.com/start)
   4. [W3](https://www.w3schools.com/)
   5. [Exercism](https://exercism.org/)
+  6. [codecademy](https://www.codecademy.com/)
 ---
 
 
@@ -82,3 +85,5 @@ Examples include container infrastructure, service fabrics, serverless functions
 
 * Safoh [42](https://profile.intra.42.fr/users/safoh)
 * GHebert42 [42](https://profile.intra.42.fr/users/gehebert)
+* Talvi [github](https://github.com/TalviT)
+* Irgonzal [42][https://profile.intra.42.fr/users/irgonzal]
