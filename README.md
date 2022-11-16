@@ -5,6 +5,7 @@ Platforms to learn about web development, machine learning, security and much mo
 * [Web development](#WebDevelopment)
 * [Machine learning and Data analysis](#Machine_learning_and_Data_analysis)
 * [Cloud infrastructure](#CloudInfrastructure)
+* [Learn more about programming languages](#ProgrammingLanguages)
 
 ## WebDevelopment
 
@@ -65,3 +66,18 @@ Examples include container infrastructure, service fabrics, serverless functions
   2. [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
   
 ----
+
+## ProgrammingLanguages
+
+### Free
+  1. [freecodecamp](https://www.freecodecamp.org/)
+  2. [codewars](https://www.codewars.com/)
+  3. [codingame](https://www.codingame.com/start)
+
+---
+
+
+## Thank you very much for contributing
+
+* Safoh [42](https://profile.intra.42.fr/users/safoh)
+
