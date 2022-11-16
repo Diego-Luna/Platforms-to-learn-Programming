@@ -80,4 +80,4 @@ Examples include container infrastructure, service fabrics, serverless functions
 ## Thank you very much for contributing
 
 * Safoh [42](https://profile.intra.42.fr/users/safoh)
-* GHebert42 [42] (https://profile.intra.42.fr/users/gehebert)
+* GHebert42 [42](https://profile.intra.42.fr/users/gehebert)
