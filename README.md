@@ -74,6 +74,7 @@ Examples include container infrastructure, service fabrics, serverless functions
   2. [codewars](https://www.codewars.com/)
   3. [codingame](https://www.codingame.com/start)
   4. [W3](https://www.w3schools.com/)
+  5. [Exercism](https://exercism.org/)
 ---
 
 
