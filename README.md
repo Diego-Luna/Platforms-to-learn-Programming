@@ -6,6 +6,7 @@ Platforms to learn about web development, machine learning, security and much mo
 * [Machine learning and Data analysis](#Machine_learning_and_Data_analysis)
 * [Cloud infrastructure](#CloudInfrastructure)
 * [Learn more about programming languages](#ProgrammingLanguages)
+* [GitHub](#GitHub)
 
 ## WebDevelopment
 
@@ -66,7 +67,19 @@ Examples include container infrastructure, service fabrics, serverless functions
 ### Pay
   1. [udacity](https://www.udacity.com/)
   2. [Google Cloud Skills Boost](https://www.cloudskillsboost.google/)
-  
+
+
+----
+
+## GitHub
+
+what is GitHub?
+
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. This tutorial teaches you GitHub essentials like repositories, branches, commits, and pull requests.
+
+### Free
+  1. [GitHub Skills](https://skills.github.com/)
+
 ----
 
 ## ProgrammingLanguages
