@@ -84,6 +84,6 @@ Examples include container infrastructure, service fabrics, serverless functions
 ## Thank you very much for contributing
 
 * Safoh [42](https://profile.intra.42.fr/users/safoh)
-* GHebert42 [42](https://profile.intra.42.fr/users/gehebert)
+* GHebert [42](https://profile.intra.42.fr/users/gehebert)
 * Talvi [github](https://github.com/TalviT)
-* Irgonzal [42][https://profile.intra.42.fr/users/irgonzal]
+* Irgonzal [42](https://profile.intra.42.fr/users/irgonzal)
